@@ -1,0 +1,14 @@
+{
+  "texts": {
+    "title": "香港扭卡機", "eyebrow": "HONG KONG CARD MOMENTS",
+    "subtitle": "投入分數，扭出一張香港回憶卡！", "balanceLabel": "現有分數",
+    "costLabel": "每次抽卡", "drawButton": "用 {cost} 分扭卡", "drawingButton": "扭卡中…",
+    "insufficient": "分數不足，再儲多一點分數吧！", "resultEyebrow": "CARD GET!",
+    "resultTitle": "獲得新卡！", "againButton": "再扭一次", "closeButton": "收起卡片",
+    "returnButton": "回到故事 →", "scoreUnit": "分"
+  },
+  "settings": {"startingCredits": 200, "drawCost": 200, "coverUrl": "assets/machine-cover.png"},
+  "cards": [
+    {"id":"star-ferry","name":"維港渡輪","image":"assets/ferry-card.png","rarity":"閃卡","weight":1}
+  ]
+}
